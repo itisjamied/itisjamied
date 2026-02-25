@@ -1,5 +1,4 @@
 ## Hey, I'm Jamie 👋
-
 Creative Technologist + Web Developer  
 Mentor @ [Artists For Humanity](https://github.com/Artists-For-Humanity) 
 

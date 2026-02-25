@@ -3,6 +3,7 @@
 Creative Technologist + Web Developer  
 Mentor @ [Artists For Humanity](https://github.com/Artists-For-Humanity) 
 
+![Jellyfish gif banner😱](https://github.com/user-attachments/assets/a8eeb015-952a-46aa-838d-c98a6663f585)
 
 Frontend: Next.js, React, Expo  
 Backend: Node, Express  

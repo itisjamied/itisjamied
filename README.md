@@ -36,7 +36,6 @@ Neither are the 6 dev servers and the crashing TouchDesigner file.
 <img src="https://img.shields.io/badge/Cloudflare_R2-000?style=for-the-badge&logo=cloudflare&logoColor=F38020" /><br/>
 
 <img src="https://img.shields.io/badge/TouchDesigner-000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/p5.js-000?style=for-the-badge&logo=p5dotjs&logoColor=ED225D" />
 
 </div>
 

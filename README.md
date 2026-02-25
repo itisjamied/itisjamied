@@ -1,6 +1,15 @@
 ## Hey, I'm Jamie 👋
 
-Creative Technologist and Mentor @ [Artists For Humanity]([https://github.com/artistsforhumanity](https://github.com/Artists-for-Humanity))
+Creative Technologist + Web Developer  
+Mentor @ [Artists For Humanity](https://github.com/Artists-For-Humanity) 
+
+
+Frontend: Next.js, React, Expo  
+Backend: Node, Express  
+CMS: Sanity  
+Storage: Supabase, Cloudflare R2  
+Creative: TouchDesigner, p5.js  
+
 <!--
 **itisjamied/itisjamied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

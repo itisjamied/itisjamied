@@ -11,7 +11,7 @@ Mentor @ [Artists For Humanity](https://github.com/Artists-For-Humanity)
       <img src="https://github.com/user-attachments/assets/af3fe6f1-be77-4d60-9c72-f8a609be59e8" width="260" /><br/>
       <sub><em>
         Cable management not pictured.<br/>
-        Neither are the 6 dev servers and crashing touch designer file.
+        Neither are the 6 dev servers and the crashing touch designer file.
       </em></sub>
     </td>
      <td valign="top">

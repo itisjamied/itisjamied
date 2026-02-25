@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey, I'm Jamie 👋
 
+Creative Technologist and Mentor @ [Artists For Humanity]([https://github.com/artistsforhumanity](https://github.com/Artists-for-Humanity))
 <!--
 **itisjamied/itisjamied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

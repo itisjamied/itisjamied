@@ -22,7 +22,7 @@ Neither are the 6 dev servers and the crashing TouchDesigner file.
 
 <div>
 
-### tech i use
+### tech i use :)
 
 <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />

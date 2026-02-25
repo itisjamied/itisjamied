@@ -3,7 +3,21 @@
 Creative Technologist + Web Developer  
 Mentor @ [Artists For Humanity](https://github.com/Artists-For-Humanity) 
 
-![_](https://github.com/user-attachments/assets/af3fe6f1-be77-4d60-9c72-f8a609be59e8)
+<div style="display: flex; align-items: center; gap: 24px;">
+
+  <img src="https://github.com/user-attachments/assets/af3fe6f1-be77-4d60-9c72-f8a609be59e8" 
+       width="260" 
+       style="border-radius: 12px;" />
+
+  <div>
+    <h3>🖥️ My Ideal Desk Setup</h3>
+    <p>
+      Minimal. Calm. Zero cables.<br/>
+      (In reality there are 47 open tabs and a TouchDesigner window crashing.)
+    </p>
+  </div>
+
+</div>
 
 
 Frontend: Next.js, React, Expo  

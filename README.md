@@ -4,7 +4,7 @@ Creative Technologist + Web Developer
 Mentor @ [Artists For Humanity](https://github.com/Artists-For-Humanity) 
 
 
-<div align="center">
+<div align="right">
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; justify-content:center; gap:40px;">
 

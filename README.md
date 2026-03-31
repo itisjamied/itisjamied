@@ -1,4 +1,4 @@
-## Hey, I'm Jamie (she/her) .✦ ݁˖
+## Hii, I'm Jamie (she/her) .✦ ݁˖
 👾 Creative Technologist + Web Developer  
 🤝 Mentor @ [Artists For Humanity](https://github.com/Artists-For-Humanity) 
 

@@ -43,6 +43,7 @@ Neither are the 6 dev servers and the crashing TouchDesigner file.
 <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00599C" /><br/>
 
+
 <!-- Frameworks & Libraries -->
 <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -50,19 +51,23 @@ Neither are the 6 dev servers and the crashing TouchDesigner file.
 <img src="https://img.shields.io/badge/p5.js-000?style=for-the-badge&logo=p5dotjs&logoColor=ED225D" /><br/>
 
 <!-- Backend / Runtime -->
+<img src="https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=646CFF" />
 <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
 <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white" /><br/>
+
 
 <!-- CMS / Database / Infra -->
 <img src="https://img.shields.io/badge/Sanity-000?style=for-the-badge&logo=sanity&logoColor=F03E2F" />
 <img src="https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
 <img src="https://img.shields.io/badge/Cloudflare_R2-000?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-000?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
 <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
 
 <!-- Creative / Design -->
 <img src="https://img.shields.io/badge/TouchDesigner-000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+
 
 </div>
 
